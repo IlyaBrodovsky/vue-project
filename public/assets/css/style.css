@@ -1,0 +1,16 @@
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+.container {
+	display: flex;
+	
+}
+
+.card-body {
+	display: flex;
+	justify-content: center;
+}
+
