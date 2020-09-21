@@ -13,7 +13,10 @@ export default {
   },
   data() {
     return {
-      message: 'Menu'
+        message: 'MENU',
+        fontSize: 16,
+        image: 'assets/apple.jpg',
+
     }
   }
 }

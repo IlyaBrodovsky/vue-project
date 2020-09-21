@@ -5,7 +5,7 @@
   <img :src="image" class="card-img-top" alt="...">
   <hr>
   <div class="card-body">
-    <p class="card-title" :style="{fontSize: fontSize + 'px'}">{{ message ? message : "no content"}}</p>
+    <p class="card-title" :style="{fontSize: fontSize + 'px'}">{{ message ? message : "Menu"}}</p>
   </div>
 </div>
 
